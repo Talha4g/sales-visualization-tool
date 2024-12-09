@@ -131,6 +131,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the need for better sales visualization tools
 - Built using Python's powerful data analysis libraries
 
+P.S :- We are actively using this tool in our sales division and honestly it is the best tool ever and made our lives like a paradise, Special thanks to my teammates for supporting me always ! love you guys
+
 ---
 © 2024 Talah Tanveer. All Rights Reserved.
 
